@@ -1,0 +1,1 @@
+web: gunicorn onbytes.wsgi:application
