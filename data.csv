@@ -1,0 +1,385 @@
+﻿ID,Region,Country,City,Building Tenure,Primary Use,Area,Area Type,Lease Expiry Date,Break Option Date,Currency,Rental Cost,Lease Until Expiry,Per Square Meter
+0,N. Europe,Austria,Vienna,Leased,Parking,0,sqm,,,USD,2987,,N/A
+1,Americas,Brazil,Rio de Janeiro,Owned,Office,449.000199,sqm,,,USD,,,N/A
+2,Americas,Chile,Valparaiso,Owned,Office,232.722015,sqm,,,USD,,,N/A
+3,S. Europe,Croatia,Rijeka,Leased,Office,0,sqm,2022-10-14,,USD,,,N/A
+4,S. Europe,Croatia,Zagreb,Owned,Office,1317.72,sqm,,,USD,,,N/A
+5,N. Europe,Czech Republic,Prague,Leased,Parking,0,sqm,,,USD,900,,N/A
+6,SAMEA,Egypt,Cairo,Owned,Office,249.165846,sqm,,,USD,,,N/A
+7,S. Europe,France,Dunkirk,Owned,Office,527,sqm,,,USD,,,N/A
+8,S. Europe,France,Nantes,Owned,Office,635.07,sqm,,,USD,,,N/A
+9,N. Europe,Germany,Bremerhaven,Leased,Parking,0,sqm,,,USD,8204,,N/A
+10,N. Europe,Germany,Hamburg,Leased,Parking,0,sqm,2021-03-31,,USD,15786,-7438.882,N/A
+11,N. Europe,Germany,Hamburg,Leased,Parking,0,sqm,2022-03-31,,USD,24315,12856.973,N/A
+12,SAMEA,India,Chennai,Owned,Office,153.28995,sqm,,,USD,,,N/A
+13,SAMEA,India,Mumbai,Owned,Residential,92.903,sqm,,,USD,,,N/A
+14,SAMEA,India,Mumbai,Owned,Residential,58.064375,sqm,,,USD,,,N/A
+15,SAMEA,India,Mumbai,Owned,Residential,78.96755,sqm,,,USD,,,N/A
+16,SAMEA,India,Mumbai,Owned,Storage,287.9993,sqm,,,USD,,,N/A
+17,SAMEA,India,Pune,Owned,Storage,60.38695,sqm,,,USD,,,N/A
+18,SAMEA,India,Vadodara,Owned,Storage,72.46434,sqm,,,USD,,,N/A
+19,S. Europe,Italy,Brescia,Owned,Office,1184.03,sqm,,,USD,,,N/A
+20,S. Europe,Italy,Genoa,Owned,Office,5059.04,sqm,,,USD,,,N/A
+21,S. Europe,Italy,Palermo,Owned,Office,1076.39,sqm,,,USD,,,N/A
+22,SAMEA,Nigeria,Lagos,Leased,Residential,0,sqm,2021-02-28,,USD,21763,-12103.805,N/A
+23,N. Europe,Norway,Stavanger,Leased,Residential,0,sqm,,,USD,6095,,N/A
+24,Americas,Panama,Balboa,Owned,Office,241.919412,sqm,,,USD,,,N/A
+25,Americas,Peru,Callao,Leased,Office,11.612875,sqm,2022-09-30,,USD,,,N/A
+26,S. Europe,Portugal,Lisbon,Owned,Office,1711.46,sqm,,,USD,,,N/A
+27,S. Europe,Spain,Madrid,Owned,Storage,252.95,sqm,,,USD,,,N/A
+28,S. Europe,Spain,Madrid,Owned,Office,9628.32,sqm,,,USD,,,N/A
+29,S. Europe,Turkey,Istanbul,Leased,Office,0,sqm,2021-09-14,,USD,,,N/A
+30,S. Europe,Turkey,Istanbul,Leased,Office,0,sqm,2022-10-04,,USD,,,N/A
+31,SAMEA,UAE,Dubai,Leased,Residential,0,sqm,2022-05-14,,USD,33259,21595.570,N/A
+32,UK & I,England,London,Owned,Office,0,sqm,,,USD,,,N/A
+33,Americas,Venezuela,Caracas,Owned,Office,176.9997246,sqm,,,USD,,,N/A
+34,UK & I,England,Southampton,Leased,Office,0,sqm,,,USD,72468,,N/A
+35,SAMEA,Malaysia,Labuan,Leased,Office,0,sqm,2022-08-31,,USD,2840,2692.164,N/A
+36,UK & I,England,Evanton,No data,Office,0,sqm,,,USD,,,N/A
+37,UK & I,England,Scunthorpe,No data,Office,0,sqm,,,USD,,,N/A
+38,S. Europe,Spain,Bilbao,Owned,Office,5942,sqm,,,USD,,,N/A
+39,S. Europe,Spain,Las Palmas,Owned,Office,1980.56,sqm,,,USD,,,N/A
+40,SAMEA,Australia,Sydney,Owned,Parking,0,sqm,,,USD,,,N/A
+41,UK & I,Scotland,Glasgow,Leased,Parking,0,sqm,2023-06-21,,USD,4550,7978.082,N/A
+42,SAMEA,UAE,Dubai,Leased,Residential,0,sqm,2026-02-03,,USD,42613,186563.216,N/A
+43,S. Europe,Italy,Monfalcone,No data,Office,0,sqm,,,USD,,,N/A
+44,UK & I,Scotland,Aberdeen,Owned,Office,344.577227,sqm,,,USD,,,N/A
+45,UK & I,Scotland,Aberdeen,Owned,Office,860.095974,sqm,,,USD,,,N/A
+46,UK & I,Scotland,Alford,Owned,Office,65.310809,sqm,,,USD,,,N/A
+47,Americas,USA,Maine,Owned,Office,743.224,sqm,,,USD,,,N/A
+48,UK & I,England,Manchester,Leased,Office,0,sqm,2022-06-30,,USD,46800,36414.247,N/A
+49,SAMEA,India,Kolkata,Leased,Office,0,sqm,2021-02-28,,USD,939,-522.238,N/A
+50,SAMEA,UAE,Dubai,Leased,Residential,0,sqm,2022-11-14,,USD,27023,31168.995,N/A
+51,Americas,Curacao,Willemstad,Owned,Office,1379.981162,sqm,,,USD,,,N/A
+52,UK & I,England,Sellafield,Leased,Office,0,sqm,2019-09-30,,USD,,,N/A
+53,SAMEA,Philippines,Subic Bay,Leased,Residential,0,sqm,2021-03-30,,USD,8519,-4037.773,N/A
+54,SAMEA,Philippines,Zambales,Leased,Residential,0,sqm,2021-07-15,,USD,2943,-532.159,N/A
+55,N. Europe,Netherlands,Serooskerke,Owned,Office,0,sqm,,,USD,,,N/A
+56,SAMEA,Australia,Cairns,Leased,Office,0,sqm,2021-02-28,,USD,5427,-3018.304,N/A
+57,S. Europe,Serbia,Beograd,Leased,Office,0,sqm,2022-03-31,,USD,1717,907.893,N/A
+58,North Asia,China,Shanghai,Leased,Residential,0,sqm,2022-06-30,,USD,20101.52,15640.635,N/A
+59,North Asia,China,Shanghai,Leased,Residential,0,sqm,2022-06-30,,USD,42561,33115.956,N/A
+60,SAMEA,Philippines,Subic Bay,Leased,Residential,0,sqm,2022-06-30,,USD,7636,5941.436,N/A
+61,SAMEA,South Africa,Durban,Leased,Residential,0,sqm,2021-02-28,,USD,7559,-4204.047,N/A
+62,N. Europe,Sweden,Karlstad,Leased,Meeting point,0,sqm,,,USD,0,,N/A
+63,SAMEA,Senegal,Dakar,Leased,Office,0,sqm,2021-02-06,,USD,1258,-775.479,N/A
+64,SAMEA,UAE,Dubai,Leased,Residential,0,sqm,2022-11-05,,USD,23281,26278.827,N/A
+65,SAMEA,UAE,Dubai,Leased,Residential,0,sqm,2022-11-05,,USD,23281,26278.827,N/A
+66,SAMEA,UAE,Dubai,Leased,Residential,0,sqm,2022-11-09,,USD,19748,22507.310,N/A
+67,SAMEA,Morocco,Casablanca,Leased,Office,0,sqm,2021-03-31,,USD,750,-353.425,N/A
+68,North Asia,China,Shanghai,Leased,Residential,0,sqm,2022-08-20,,USD,39697,36434.233,N/A
+69,North Asia,China,Shanghai,Leased,Residential,0,sqm,2022-06-30,,USD,36324,28263.058,N/A
+70,North Asia,China,Shanghai,Leased,Residential,0,sqm,2022-10-22,,USD,48519,52905.649,N/A
+71,SAMEA,UAE,Dubai,Leased,Residential,0,sqm,2022-11-05,,USD,20806,23485.129,N/A
+72,North Asia,China,Shanghai,Leased,Residential,0,sqm,2022-06-30,,USD,29838,23216.416,N/A
+73,North Asia,China,Shanghai,Leased,Residential,0,sqm,2022-12-20,,USD,22054,27612.816,N/A
+74,SAMEA,UAE,Dubai,Leased,Residential,0,sqm,2022-07-04,,USD,37417,29523.551,N/A
+75,SAMEA,Kazakhstan,Atyrau,Leased,Residential,0,sqm,2022-07-31,,USD,21344,18420.164,N/A
+76,North Asia,China,Jiangyin,Leased,Residential,0,sqm,2022-06-30,,USD,29838,23216.416,N/A
+77,SAMEA,UAE,Dubai,Leased,Residential,0,sqm,2022-07-31,,USD,43653,37673.137,N/A
+78,SAMEA,UAE,Dubai,Leased,Residential,0,sqm,2022-08-31,,USD,41574,39409.874,N/A
+79,SAMEA,Singapore,Singapore,Leased,Residential,0,sqm,2022-09-14,,USD,47059,46414.356,N/A
+80,North Asia,China,Shanghai,Leased,Residential,0,sqm,2022-10-31,,USD,25920,28902.575,N/A
+81,UK & I,Scotland,Aberdeen,Leased,Office,10033.524,sqm,2031-12-31,,USD,,,N/A
+82,SAMEA,Azerbaijan,Baku,Leased,Office,0,sqm,2022-07-01,,USD,,,N/A
+83,SAMEA,UAE,Abu Dhabi,Leased,Residential,0,sqm,2021-03-31,,USD,44193,-20825.195,N/A
+84,Americas,Trinidad and Tobago,Port of Spain,Leased,Office,1.672254,sqm,2021-05-31,,USD,18229,-5543.614,10900.85597
+85,North Asia,Japan,Tokyo,Leased,Office,3.530314,sqm,2022-05-31,,USD,6930,4822.521,1962.998192
+86,N. Europe,Netherlands,Rotterdam,Leased,Office,369,sqm,2021-12-31,,USD,673673,190104.984,1825.672087
+87,SAMEA,Malaysia,Kuala Lumpur,Leased,Residential,371.612,sqm,2022-08-31,,USD,677754,642473.655,1823.82162
+88,SAMEA,UAE,Abu Dhabi,Leased,Office,14.028353,sqm,2022-09-30,,USD,12472,12847.868,889.0566127
+89,SAMEA,Libya,Tripoli,Leased,Office,49.981814,sqm,2021-12-31,,USD,35941,10142.255,719.0815443
+90,North Asia,SAR of PRC,Hong Kong,Leased,Office,947.053182,sqm,2024-12-31,,USD,613685,2015913.192,647.9942327
+91,SAMEA,Australia,Perth,Leased,Office,153.940271,sqm,2022-11-30,,USD,81578,97670.099,529.9328075
+92,North Asia,China,Jiangyin,Leased,Residential,10.35682644,sqm,2022-07-28,,USD,4873.1,4165.499,470.5205816
+93,SAMEA,UAE,Abu Dhabi,Leased,Office,46.4515,sqm,2022-09-30,,USD,19770,20365.808,425.6052011
+94,SAMEA,Qatar,Doha,Leased,Office,164.995728,sqm,2021-05-31,,USD,66209,-20134.792,401.2770561
+95,SAMEA,Kuwait,Safat,Leased,Office,40.041193,sqm,2021-01-31,,USD,15155,-9591.247,378.4852265
+96,North Asia,China,Beijing,Leased,Office,31.56007813,sqm,2024-12-31,,USD,10725.27,35231.777,339.8366112
+97,SAMEA,UAE,Dubai,Leased,Office,1021.933,sqm,2021-12-15,,USD,342985,81752.589,335.623764
+98,UK & I,England,Southampton,Leased,Office,9940.621,sqm,2064-09-23,2034-09-23,USD,3250000,139883561.644,326.941345
+99,SAMEA,India,Mumbai,Leased,Residential,128.670655,sqm,2019-04-14,,USD,42061.86,-102446.558,326.8955148
+100,UK & I,Scotland,Aberdeen,Leased,Office,1249.452447,sqm,2022-11-30,,USD,402725,482166.644,322.3211903
+101,North Asia,China,Shanghai,Leased,Office,912.5991754,sqm,2022-02-14,,USD,290827.55,117924.596,318.6804874
+102,North Asia,China,Shanghai,Leased,Office,1976.66926,sqm,2023-02-14,,USD,629925.6,885347.487,318.6803239
+103,North Asia,China,Shanghai,Leased,Office,522.207763,sqm,2021-02-14,,USD,161970,-96294.493,310.1639069
+104,North Asia,China,Shanghai,Leased,Office,521.000024,sqm,2021-02-14,,USD,160697,-95537.668,308.4395251
+105,North Asia,Japan,Yokohama,Leased,Office,1572.011663,sqm,2021-07-31,,USD,469849,-64362.877,298.8839148
+106,North Asia,China,Shanghai,Leased,Residential,123.5897899,sqm,2022-11-30,,USD,36548.22,43757.732,295.7220012
+107,UK & I,England,Lowestoft,Leased,Office,57.042442,sqm,2022-03-31,,USD,16860,8915.014,295.5693938
+108,SAMEA,Singapore,Singapore,Leased,Office,3072.30221,sqm,2025-04-11,,USD,899243,3202783.288,292.6935368
+109,UK & I,Scotland,Edinburgh,Leased,Office,418.0635,sqm,2022-02-05,,USD,119786,45617.134,286.5258507
+110,SAMEA,UAE,Dubai,Leased,Residential,119.937773,sqm,2022-08-15,,USD,33145,29966.712,276.3516378
+111,North Asia,China,Shanghai,Leased,Office,92.903,sqm,2021-02-14,,USD,25545,-15187.027,274.96421
+112,SAMEA,Kazakhstan,Almaty,Leased,Office,30.99987304,sqm,2021-02-28,,USD,8351,-4644.529,269.3882
+113,North Asia,China,Shanghai,Leased,Residential,134.988059,sqm,2022-06-30,,USD,35084,27298.236,259.9044705
+114,SAMEA,Kazakhstan,Almaty,Leased,Office,30.99987304,sqm,2021-03-31,,USD,7700,-3628.493,248.388114
+115,SAMEA,Australia,North Sydney,Leased,Office,131.829357,sqm,2022-08-31,,USD,31896,30235.660,241.9491434
+116,North Asia,Japan,Kobe,Leased,Office,226.869126,sqm,2019-03-31,,USD,53424,-132169.512,235.4837828
+117,Americas,USA,Vermont,Leased,Office,26.01284,sqm,2021-09-30,,USD,6005,180.973,230.8475353
+118,North Asia,Japan,Kanagawa,Leased,Residential,26.01284,sqm,2016-09-26,,USD,5873,-29268.458,225.7731182
+119,North Asia,China,Shanghai,Leased,Residential,94.68952469,sqm,2022-06-30,,USD,20710.66,16114.596,218.7217653
+120,SAMEA,UAE,Abu Dhabi,Leased,Office,132.9999348,sqm,2021-03-04,,USD,28894,-15753.167,217.2482268
+121,North Asia,China,Qingdao,Leased,Residential,104.9998996,sqm,2022-06-30,,USD,22659.9,17631.265,215.8087777
+122,UK & I,England,Guildford,Leased,Office,168.897654,sqm,2022-10-08,2017-10-09,USD,36360,38252.712,215.278301
+123,North Asia,Korea,Geoje,Leased,Residential,69.026929,sqm,2021-05-13,,USD,14824,-5239.167,214.7567654
+124,Americas,USA,Miami (Plantation),Leased,Office,650.785515,sqm,2023-04-30,,USD,137233,221076.723,210.8728557
+125,SAMEA,Kazakhstan,Atyrau,Leased,Office,297.010891,sqm,2021-07-31,,USD,62628,-8579.178,210.8609546
+126,SAMEA,Singapore,Singapore,Leased,Residential,141.026754,sqm,2021-07-17,,USD,29412,-5157.173,208.5561723
+127,SAMEA,Australia,Melbourne,Leased,Office,449.9998056,sqm,2022-11-30,,USD,93700,112183.288,208.2223122
+128,North Asia,Korea,Geoje,Leased,Residential,84.820439,sqm,2022-06-03,,USD,17647,12425.422,208.0512693
+129,Americas,USA,Seattle,Leased,Office,212.190452,sqm,2022-01-01,,USD,43076,12273.710,203.0063068
+130,North Asia,China,Nanjing,Leased,Office,234.9999966,sqm,2022-08-31,,USD,47024.16,44576.327,200.1028114
+131,North Asia,Japan,Nagasaki,Leased,Office,228.355574,sqm,2021-06-30,,USD,45618,-10123.447,199.7674031
+132,SAMEA,Australia,Melbourne,Leased,Office,251.952936,sqm,2022-07-30,,USD,50140,43134.137,199.0054206
+133,UK & I,Scotland,Aberdeen,Leased,Office,3753.2812,sqm,2022-09-14,,USD,727200,717238.356,193.7504709
+134,Americas,Brazil,Rio de Janeiro,Leased,Office,449.000199,sqm,2022-01-03,,USD,84842,24639.047,188.9576
+135,Americas,Mexico,Monterrey,Leased,Office,405.335789,sqm,2021-11-06,,USD,76477,10057.249,188.6756661
+136,North Asia,China,Jiangyin,Leased,Residential,161.9698773,sqm,2022-09-01,,USD,30456.85,28954.868,188.0402116
+137,North Asia,Korea,Ulsan,Leased,Residential,84.913342,sqm,2022-11-24,,USD,15176.47,17920.708,178.7289211
+138,Americas,USA,New Jersey,Leased,Office,186.270515,sqm,2021-02-28,,USD,32844,-18266.663,176.3242025
+139,Americas,Argentina,Buenos Aires,Leased,Office,299.983787,sqm,2021-12-31,,USD,52623,14849.778,175.4194803
+140,North Asia,Korea,Geoje,Leased,Residential,84.820439,sqm,2022-07-01,,USD,14824,11574.904,174.7691968
+141,North Asia,China,Jiangyin,Leased,Residential,162.301541,sqm,2022-09-09,,USD,28020.3,27252.621,172.6434625
+142,North Asia,China,Qingdao,Leased,Office,298.590242,sqm,2019-02-15,,USD,50896.75,-132052.664,170.456843
+143,SAMEA,India,Mumbai,Leased,Office,1966.570704,sqm,2021-07-14,,USD,335196,-61529.129,170.446961
+144,North Asia,China,Guangzhou,Leased,Residential,60.99997364,sqm,2022-06-15,,USD,10378,7648.444,170.1312211
+145,SAMEA,Singapore,Singapore,Leased,Residential,278.709,sqm,2022-08-30,,USD,47059,44480.425,168.8463595
+146,SAMEA,Australia,Perth,Leased,Office,669.923533,sqm,2022-12-30,,USD,113041,144630.540,168.7371684
+147,North Asia,Korea,Busan,Leased,Residential,115.385526,sqm,2021-06-21,,USD,19059,-4699.479,165.1766964
+148,North Asia,CHINA,Qingdao,Leased,Residential,190.2755633,sqm,2022-08-14,,USD,31413.6,28315.272,165.0952936
+149,UK & I,Scotland,Glasgow,Leased,Office,277.594164,sqm,2021-06-21,,USD,45812,-11296.110,165.0322879
+150,UK & I,England,Bath,Leased,Office,275.457395,sqm,2022-04-30,,USD,45000,27493.151,163.3646466
+151,North Asia,Korea,Geoje,Leased,Residential,112.41263,sqm,2022-06-30,,USD,18353,14280.142,163.2645727
+152,SAMEA,Morocco,Casablanca,Leased,Office,141.955784,sqm,2021-06-30,,USD,23056,-5116.537,162.4167706
+153,North Asia,Korea,Changwon,Leased,Residential,100.985561,sqm,2021-10-31,,USD,16235,1868.137,160.7655574
+154,North Asia,Taiwan,Taipei,Leased,Office,168.5999271,sqm,2021-07-31,,USD,26839,-3676.575,159.1874946
+155,North Asia,Japan,Hiroshima,Leased,Office,39.669581,sqm,2021-02-28,,USD,6300,-3503.836,158.8118614
+156,North Asia,Korea,Seoul,Leased,Office,1123.940494,sqm,2023-09-30,,USD,177600,360552.329,158.015483
+157,North Asia,China,Shanghai,Leased,Residential,236.995553,sqm,2022-06-30,,USD,37392,29094.049,157.7751123
+158,North Asia,Japan,Ehime,Leased,Office,58.08945881,sqm,2021-10-18,,USD,9072,720.789,156.1729131
+159,North Asia,Korea,Seoul,Leased,Office,595.043715,sqm,2022-09-30,,USD,92753,95548.296,155.8759427
+160,North Asia,Korea,Geoje,Leased,Residential,109.068122,sqm,2022-08-31,,USD,16941,16059.140,155.3249445
+161,S. Europe,Italy,Milan,Leased,Office,299.983787,sqm,2022-10-31,,USD,46590,51951.041,155.3083934
+162,Americas,USA,Miami,Leased,Office,563.642501,sqm,2023-04-30,,USD,86456,139277.063,153.3880072
+163,Americas,Brazil,Santos,Leased,Office,49.981814,sqm,2022-05-30,,USD,7660,5309.534,153.2557422
+164,North Asia,China,Guangzhou,Leased,Residential,272.112887,sqm,2022-06-30,,USD,41411,32221.162,152.1831636
+165,UK & I,England,Liverpool,Leased,Office,71.349504,sqm,2023-11-07,,USD,10752,22947.419,150.6948107
+166,UK & I,England,Liverpool,Leased,Office,424.195098,sqm,2016-11-17,,USD,63924,-309462.214,150.6948107
+167,Americas,USA,Houston Port,Leased,Office,301.284429,sqm,2024-08-28,,USD,44624,131304.592,148.1125332
+168,North Asia,Korea,Busan,Leased,Residential,111.111988,sqm,2021-04-26,,USD,16235,-6494.000,146.1138469
+169,SAMEA,Indonesia,Jakarta,Leased,Office,634.713296,sqm,2019-04-30,,USD,92401.61,-221004.399,145.5800762
+170,North Asia,Korea,Geoje,Leased,Residential,112.041018,sqm,2022-09-30,,USD,16235,16724.274,144.9022893
+171,SAMEA,Vietnam,Haiphong,Leased,Office,41.992156,sqm,2021-04-30,,USD,6035,-2347.863,143.7173171
+172,Americas,Canada,Calgary,Leased,Office,696.122179,sqm,2021-09-30,,USD,98914.14,2980.974,142.0930736
+173,Americas,Canada,Ottawa,Leased,Office,220.644625,sqm,2022-02-28,,USD,31219.5,13856.326,141.4922299
+174,North Asia,Korea,Ulsan,Leased,Residential,85.006245,sqm,2021-09-11,,USD,12000,-263.014,141.166099
+175,Americas,Brazil,Sao Paulo,Leased,Office,349.965601,sqm,2023-01-31,,USD,49213,67280.238,140.6223922
+176,North Asia,Japan,Nagasaki,Leased,Residential,74.972721,sqm,2016-09-06,,USD,10510,-52953.123,140.1843212
+177,SAMEA,Saudi Arabia,Al Khobar,Leased,Office,140.004821,sqm,2022-09-10,,USD,19453,18973.337,138.9452153
+178,North Asia,China,Shanghai,Leased,Residential,280.009642,sqm,2021-08-14,,USD,38862.94,-3833.057,138.7914349
+179,Americas,USA,New Orleans,Leased,Office,154.962204,sqm,2021-03-31,2019-03-31,USD,21354,-10062.707,137.8013441
+180,North Asia,Korea,Ulsan,Leased,Residential,153.754465,sqm,2022-10-01,,USD,21176,21872.197,137.7260816
+181,North Asia,Korea,Ulsan,Leased,Residential,113.434563,sqm,2022-10-06,,USD,15529,16252.268,136.8983103
+182,North Asia,Korea,Busan,Leased,Residential,145.764807,sqm,2022-06-27,,USD,19765,15216.342,135.595144
+183,UK & I,England,Newcastle,Leased,Office,181.16085,sqm,2021-09-15,2018-03-12,USD,24500,-268.493,135.2389327
+184,SAMEA,Malaysia,Kuala Lumpur,Leased,Office,1356.755412,sqm,2021-04-03,,USD,181888,-84216.636,134.0610094
+185,North Asia,Korea,Busan,Leased,Residential,170.01249,sqm,2022-06-20,,USD,22588.24,16956.651,132.8622385
+186,North Asia,China,Guangzhou,Leased,Office,257.1898781,sqm,2023-03-31,,USD,32899.49,50295.659,127.9190699
+187,SAMEA,Vietnam,Vung Tau,Leased,Office,189.986635,sqm,2021-03-31,,USD,23896,-11260.581,125.7772685
+188,North Asia,China,Shanghai,Leased,Residential,264.4595379,sqm,2022-06-09,,USD,32879.52,23691.271,124.3272232
+189,North Asia,Korea,Busan,Leased,Residential,170.477005,sqm,2022-07-01,,USD,21176,16534.685,124.2161663
+190,SAMEA,Indonesia,Surabaya,Leased,Office,89.99978125,sqm,2021-01-31,,USD,11112.09,-7032.583,123.4679668
+191,North Asia,China,Guangzhou,Leased,Office,74.043691,sqm,2022-03-31,,USD,9102,4812.838,122.9274213
+192,North Asia,Korea,Ulsan,Leased,Residential,69.955959,sqm,2022-12-31,,USD,8471,10861.447,121.0904706
+193,North Asia,Korea,Geoje,Leased,Residential,112.041018,sqm,2021-02-28,,USD,13411.76,-7459.143,119.7040177
+194,SAMEA,Iran,Tehran,Leased,Office,114.921011,sqm,2024-08-04,,USD,13717,39459.863,119.3602448
+195,North Asia,China,Dalian,Leased,Office,451.6999602,sqm,2022-06-10,,USD,52828.26,38210.029,116.9543163
+196,North Asia,Korea,Ulsan,Leased,Residential,49.145687,sqm,2022-10-16,,USD,5647,6064.723,114.9032671
+197,North Asia,China,Nanjing,Leased,Residential,231.607179,sqm,2022-06-30,,USD,26457,20585.721,114.2322104
+198,SAMEA,Australia,Brisbane,Leased,Office,149.945442,sqm,2022-05-31,,USD,17080,11885.808,113.9080973
+199,UK & I,England,Hull,Leased,Office,179.860208,sqm,2022-07-01,,USD,20000,15616.438,111.1974695
+200,Americas,Chile,Talcahuano,Leased,Parking,6.038695,sqm,2022-09-01,,USD,666,633.156,110.2887296
+201,SAMEA,Kazakhstan,Aktau,Leased,Office,107.953286,sqm,2021-12-16,,USD,11724,2826.608,108.6025302
+202,Americas,Bahamas,Freeport,Leased,Residential,139.3545,sqm,2021-03-15,,USD,15005,-7728.603,107.6750302
+203,UK & I,England,Sheffield,Leased,Office,288.463815,sqm,2021-01-02,2018-01-03,USD,31050,-22117.808,107.6391505
+204,SAMEA,Bahrain,Manama,Leased,Office,129.971297,sqm,2021-07-14,,USD,13935,-2557.932,107.2159802
+205,UK & I,England,Bristol,Leased,Office,297.2896,sqm,2024-10-23,,USD,31860,98635.068,107.1682292
+206,SAMEA,Oman,Muscat,Leased,Office,99.963628,sqm,2022-09-30,,USD,10712,11034.827,107.1589759
+207,Americas,Colombia,Cartagena de Indias,Leased,Office,119.937773,sqm,2022-10-14,,USD,12716,13586.959,106.0216451
+208,Americas,Chile,Quilpue,Leased,Storage,19.974145,sqm,2022-04-01,,USD,2096,1114.038,104.9356556
+209,North Asia,Korea,Ulsan,Leased,Residential,115.013914,sqm,2022-06-20,,USD,12000,9008.219,104.3352024
+210,North Asia,Korea,Ulsan,Leased,Residential,115.013914,sqm,2021-02-28,,USD,12000,-6673.973,104.3352024
+211,North Asia,Korea,Ulsan,Leased,Residential,115.013914,sqm,2022-12-31,,USD,12000,15386.301,104.3352024
+212,North Asia,Korea,Jeonam,Leased,Residential,121.981639,sqm,2022-07-07,,USD,12706,10129.989,104.1632175
+213,Americas,Mexico,Veracruz,Leased,Office,360.928155,sqm,2022-12-31,,USD,37339,47875.759,103.4527218
+214,Americas,Ecuador,Guayaquil,Leased,Office,90.023007,sqm,2023-02-28,,USD,9271,13385.800,102.9847848
+215,North Asia,Korea,Ulsan,Leased,Residential,103.029427,sqm,2021-06-30,,USD,10588,-2349.666,102.7667561
+216,North Asia,China,Nanjing,Leased,Residential,100.8211227,sqm,2022-05-02,,USD,10355.33,6383.423,102.7099255
+217,Americas,Canada,Newfoundland (St. John's),Leased,Office,310.946341,sqm,2021-07-31,,USD,31872.36,-4366.077,102.5011579
+218,SAMEA,Iran,Tehran,Leased,Residential,167.968624,sqm,2022-08-27,,USD,17160,16078.685,102.1619371
+219,UK & I,England,Birmingham,Leased,Office,1150.417849,sqm,2025-03-08,,USD,114534,397260.395,99.55860829
+220,UK & I,England,Birmingham,Leased,Office,1215.728658,sqm,2025-03-08,,USD,120889,419302.668,99.43748484
+221,SAMEA,Pakistan,Karachi,Leased,Office,139.3545,sqm,2022-08-31,,USD,13816,13096.811,99.14283356
+222,Americas,USA,Lafayette,Leased,Office,125.604856,sqm,2022-01-31,,USD,12402,4553.063,98.73822076
+223,SAMEA,Jordan,Amman,Leased,Office,180.046014,sqm,2019-12-31,,USD,17635,-30341.863,97.94718366
+224,North Asia,China,Wuhan,Leased,Residential,199.927256,sqm,2022-06-21,,USD,19492.39,14686.047,97.49741176
+225,North Asia,Korea,Geoje,Leased,Residential,57.971472,sqm,2022-09-30,,USD,5647.06,5817.245,97.41101623
+226,Americas,USA,Houston,Leased,Office,8072.527476,sqm,2024-06-30,,USD,784661,2182002.507,97.20140344
+227,UK & I,England,Bracknell,Leased,Office,915.930677,sqm,2021-03-01,,USD,88780,-49133.041,96.92873296
+228,SAMEA,New Zealand,Auckland,Leased,Office,141.491269,sqm,2022-10-31,,USD,13670,15242.986,96.61373523
+229,SAMEA,India,GURGAON,Leased,Office,315.034073,sqm,2022-06-30,,USD,30397,23651.364,96.48797576
+230,Americas,USA,Maine,Leased,Office,204.3866,sqm,2022-08-31,,USD,19661,18637.551,96.19515174
+231,SAMEA,South Africa,Durban,Leased,Office,166.760885,sqm,2022-03-31,,USD,15313,8097.011,91.82608979
+232,North Asia,China,Qingdao,Leased,Residential,240.000036,sqm,2022-04-09,,USD,21928.93,12136.011,91.37052795
+233,North Asia,China,Zhoushan,Leased,Residential,129.6389783,sqm,2022-06-30,,USD,11817.26,9194.800,91.15514603
+234,Americas,Canada,Vancouver,Leased,Office,363.622342,sqm,2024-02-28,,USD,33037.68,80738.659,90.85712341
+235,North Asia,Japan,Hiroshima,Leased,Residential,42.177962,sqm,2016-05-09,,USD,3798,-20384.334,90.04702503
+236,North Asia,Japan,Kagawa,Leased,Residential,70.234668,sqm,2016-07-31,,USD,6250,-32123.288,88.98739295
+237,SAMEA,Thailand,Bangkok,Leased,Office,195.0963,sqm,2019-08-31,,USD,16968,-34865.753,86.97243361
+238,SAMEA,Thailand,Bangkok,Leased,Office,130.0642,sqm,2021-08-31,,USD,11312,-588.844,86.97243361
+239,North Asia,Korea,Busan,Leased,Office,3848.228066,sqm,2023-07-24,,USD,328652,605980.263,85.40346216
+240,SAMEA,India,Thane (Mumbai),Leased,Office,480.029801,sqm,2024-08-30,,USD,40465,119288.603,84.29684973
+241,Americas,Canada,Halifax,Leased,Office,929.494515,sqm,2021-07-30,,USD,75394.8,-10534.616,81.11376537
+242,North Asia,China,Zhoushan,Leased,Residential,130.2685866,sqm,2022-06-30,,USD,10355.33,8057.298,79.4921498
+243,North Asia,China,Wuhan,Leased,Office,182.7996589,sqm,2023-08-31,,USD,14475.53,28197.539,79.18794863
+244,North Asia,China,Jiangyin,Leased,Residential,185.4696911,sqm,2022-09-18,,USD,14619.29,14579.237,78.82306759
+245,Americas,USA,"Maine, (Bangor)",Leased,Office,464.515,sqm,2019-04-30,,USD,36586,-87505.693,78.76171921
+246,SAMEA,Philippines,Manila,Leased,Office,104.05136,sqm,2019-02-01,,USD,8086,-21289.441,77.71162241
+247,SAMEA,India,Chennai,Leased,Office,361.206864,sqm,2021-04-30,,USD,27175,-10572.192,75.23389699
+248,Americas,USA,Maine,Leased,Office,74.3224,sqm,2022-03-31,,USD,5559,2939.416,74.79575471
+249,North Asia,Korea,Busan,Leased,Residential,227.426544,sqm,2022-08-26,,USD,16941,15827.071,74.48998565
+250,North Asia,China,Zhoushan,Leased,Residential,137.1684924,sqm,2022-04-19,,USD,10050.76,5837.702,73.27309518
+251,Americas,Canada,Halifax,Leased,Office,433.206689,sqm,2022-07-30,,USD,31309.2,26934.490,72.27312226
+252,SAMEA,India,Vadodara,Leased,Office,105.444905,sqm,2022-03-14,,USD,7473,3603.419,70.87113408
+253,Americas,USA,Houston,Leased,Office,2461.9295,sqm,2021-09-30,,USD,173079,5216.079,70.30217559
+254,SAMEA,UAE,Dubai,Leased,Storage,11.984487,sqm,2022-12-31,,USD,842,1079.605,70.25749204
+255,Americas,Canada,Toronto,Leased,Office,716.375033,sqm,2022-12-31,,USD,48815.52,62590.859,68.14240831
+256,North Asia,China,Shanghai,Leased,Residential,280.009642,sqm,2022-06-30,,USD,18405,14320.603,65.7298794
+257,North Asia,China,Nantong,Leased,Office,202.8295457,sqm,2021-07-31,,USD,13279.19,-1819.067,65.46970242
+258,North Asia,China,Jiangyin,Leased,Residential,91.695261,sqm,2022-05-07,,USD,5983,3770.110,65.24873734
+259,North Asia,China,Zhoushan,Leased,Office,321.9999399,sqm,2022-12-15,,USD,21003.05,26009.256,65.22687552
+260,UK & I,England,Liverpool,Leased,Office,11.14836,sqm,2022-11-07,,USD,720,816.658,64.58349031
+261,North Asia,China,Zhoushan,Leased,Residential,130.2685866,sqm,2021-12-14,,USD,8247.72,1943.298,63.31319173
+262,North Asia,Japan,Saga,Leased,Residential,69.955959,sqm,2016-10-31,,USD,4265,-20845.918,60.96692921
+263,North Asia,China,Qingdao,Leased,Residential,55.00043406,sqm,2022-04-16,,USD,3258.88,1866.044,59.25189602
+264,UK & I,England,Liverpool,Leased,Storage,11.891584,sqm,2021-11-07,,USD,704,94.510,59.20153278
+265,Americas,Chile,Valparaiso,Leased,Office,134.988059,sqm,2021-09-01,,USD,7775,-383.425,57.59768721
+266,North Asia,China,Qingdao,Leased,Residential,69.99962341,sqm,2022-06-30,,USD,4020.3,3128.124,57.43316613
+267,North Asia,China,Jingjiang,Leased,Residential,89.91988467,sqm,2022-04-09,,USD,5126.98,2837.397,57.01719946
+268,SAMEA,Malaysia,Kuala Lumpur,Leased,Residential,650.321,sqm,2022-04-21,,USD,35694,20927.441,54.88674055
+269,SAMEA,South Africa,Cape Town,Leased,Office,94.946866,sqm,2021-09-30,,USD,5061,152.523,53.30349714
+270,SAMEA,Nigeria,Lagos,Leased,Office,151.9995273,sqm,2022-06-09,,USD,8018,5777.353,52.75016404
+271,North Asia,China,Jiang Yin,Leased,Office,116.4102461,sqm,2021-03-31,,USD,6118.38,-2883.182,52.55877558
+272,North Asia,China,Jiangyin,Leased,Residential,127.1303233,sqm,2022-09-08,,USD,6639.59,6439.493,52.22664294
+273,North Asia,China,Jiangyin,Leased,Residential,164.3101039,sqm,2022-07-03,,USD,8527.92,6705.515,51.90137307
+274,Americas,Canada,Montreal,Leased,Office,138.797082,sqm,2021-08-31,,USD,6899.88,-359.172,49.71199611
+275,North Asia,China,Qingdao,Leased,Residential,142.0003774,sqm,2022-04-16,,USD,6876.64,3937.583,48.42691353
+276,North Asia,Taiwan,Taipei,Leased,Office,176.1999239,sqm,2021-07-31,,USD,8376,-1147.397,47.53691044
+277,North Asia,Taiwan,Kaoshiung,Leased,Office,176.1999239,sqm,2021-12-31,,USD,8376,2363.638,47.53691044
+278,Americas,Chile,Valparaiso,Leased,Storage,40.041193,sqm,2021-09-01,,USD,1878,-92.614,46.90169946
+279,Americas,Chile,Talcahuano,Leased,Office,120.030676,sqm,2022-08-20,,USD,5437,4990.123,45.29675397
+280,SAMEA,Sri Lanka,Colombo,Leased,Office,77.10949,sqm,2021-12-31,,USD,3271,923.049,42.42020016
+281,S. Europe,Spain,Gijon,Leased,Office,207,sqm,2021-11-15,2017-10-16,USD,8644,1349.885,41.75845411
+282,UK & I,England,Birmingham,Leased,Storage,73.486273,sqm,2025-03-08,,USD,2758,9566.104,37.53081885
+283,N. Europe,Austria,Vienna,Leased,Storage,118,sqm,2021-02-28,,USD,4312,-2398.181,36.54237288
+284,North Asia,China,Jingjiang,Leased,Office,449.9998353,sqm,2021-12-16,,USD,16243.65,3916.277,36.09701321
+285,SAMEA,Australia,Nwcastle,Leased,Office,49.981814,sqm,2022-12-31,,USD,1800,2307.945,36.01309868
+286,North Asia,Korea,Geoje,Leased,Storage,115.478429,sqm,2022-06-30,,USD,3882,3020.515,33.61666792
+287,N. Europe,Iceland,Reykjavik,Leased,Office,371.3549088,sqm,,,USD,11923,,32.10675211
+288,S. Europe,Turkey,Istanbul,Leased,Office,1722,sqm,2022-12-31,,USD,55010,70533.370,31.94541231
+289,SAMEA,Malaysia,Miri,Leased,Office,137.682246,sqm,2021-02-28,,USD,4239,-2357.581,30.78828333
+290,SAMEA,Bangladesh,Chittagaon,Leased,Office,91.04494,sqm,2022-10-31,,USD,2710,3021.836,29.76552019
+291,SAMEA,Brunei,Muara,Leased,Office,126.069371,sqm,2026-05-31,,USD,3599,16910.370,28.5477747
+292,S. Europe,France,Marseille,Leased,Office,1980,sqm,2022-12-31,2021-12-31,USD,56309,72198.937,28.43888889
+293,SAMEA,Malaysia,Pasir Gudang,Leased,Office,167.2254,sqm,2023-04-30,,USD,4623,7447.463,27.64532182
+294,N. Europe,Austria,Vienna,Leased,Office,721,sqm,2022-06-30,,USD,18461,14364.175,25.60471567
+295,N. Europe,Germany,Hamburg,Leased,Office,34590,sqm,2024-03-31,,USD,850324,2152601.030,24.58294305
+296,N. Europe,Norway,Sunndalsøra,Leased,Office,1162,sqm,2021-07-31,,USD,28289,-3875.205,24.34509466
+297,N. Europe,Finland,Helsinki,Leased,Office,5070,sqm,,,USD,121461,,23.95680473
+298,N. Europe,Norway,Aalesund,Leased,Office,796,sqm,,,USD,18838,,23.66582915
+299,N. Europe,Norway,Oslo,Leased,Office,17383.72,sqm,2021-01-01,,USD,392470,-280642.932,22.57687077
+300,N. Europe,Norway,Trondheim,Leased,Office,2432,sqm,2021-10-31,,USD,54000,6213.699,22.20394737
+301,N. Europe,Russia,St Petersburg,Leased,Office,1549,sqm,,,USD,34000,,21.94964493
+302,SAMEA,Egypt,Alexandria,Leased,Office,170.01249,sqm,2021-11-09,,USD,3525,492.534,20.7337708
+303,N. Europe,Czech Republic,Prague,Leased,Office,2119,sqm,,,USD,41142,,19.41576215
+304,North Asia,Japan,Hiroshima,Leased,Residential,22.34999034,sqm,2021-03-11,,USD,421.670583,-221.810,18.8667009
+305,S. Europe,Spain,Cadiz,Leased,Office,2153,sqm,2021-01-01,2017-10-01,USD,39915,-28541.959,18.53924756
+306,N. Europe,Norway,Bergen,Leased,Office,3131,sqm,2021-12-31,,USD,57671,16274.282,18.41935484
+307,N. Europe,Netherlands,Apeldoorn,Leased,Office,732,sqm,,,USD,12594,,17.20491803
+308,N. Europe,Denmark,Copenhagen,Leased,Office,26910,sqm,2021-12-31,,USD,462228,130436.942,17.17681159
+309,S. Europe,France,Lyon,Leased,Office,10764,sqm,2025-12-31,2025-12-31,USD,181051,775791.134,16.82004831
+310,SAMEA,Egypt,Suez,Leased,Office,149.945442,sqm,2019-06-30,,USD,2408,-5356.975,16.05917438
+311,N. Europe,Sweden,Sundbyberg,Leased,Office,12250,sqm,2019-05-31,,USD,194500,-448682.192,15.87755102
+312,N. Europe,Poland,Gdansk,Leased,Office,5993,sqm,2022-08-30,2021-08-31,USD,93023,87925.849,15.52194227
+313,S. Europe,Cyprus,Limassol,Leased,Office,1399.308352,sqm,2021-12-31,,USD,21269,6001.937,15.19965201
+314,N. Europe,Czech Republic,Prague,Leased,Storage,682,sqm,,,USD,10133,,14.85777126
+315,North Asia,Japan,Hiroshima,Leased,Residential,31.49998639,sqm,2022-08-02,,USD,461.9681658,401.216,14.66566239
+316,SAMEA,Indonesia,Batam,Leased,Office,220.3194645,sqm,2019-02-28,,USD,3229,-8262.701,14.6559906
+317,N. Europe,Finland,Vaasa,Leased,Meeting point,247.5699392,sqm,,,USD,3620,,14.62213067
+318,S. Europe,Italy,Viareggio,Leased,Office,1019,sqm,2021-10-01,,USD,14832,487.627,14.55544652
+319,N. Europe,Germany,Bremerhaven,Leased,Office,5606,sqm,2023-05-31,,USD,79402,134657.090,14.16375312
+320,N. Europe,Norway,Stavanger,Leased,Office,1431,sqm,2019-12-31,,USD,20000,-34410.959,13.97624039
+321,North Asia,Japan,Hiroshima,Leased,Residential,28.0099879,sqm,2023-03-21,,USD,390.2356988,585.888,13.93201954
+322,N. Europe,Netherlands,Spijkenisse,Leased,Office,1615,sqm,2022-05-31,,USD,21986,15299.847,13.61362229
+323,N. Europe,Netherlands,Hoeven,Leased,Office,2153,sqm,2019-10-31,,USD,28939,-54627.318,13.44124477
+324,N. Europe,Germany,Augsburg,Leased,Meeting point,570,sqm,,,USD,7632,,13.38947368
+325,North Asia,Japan,Saga,Leased,Residential,30.10998699,sqm,2022-11-27,,USD,400.3447144,476.026,13.2960773
+326,N. Europe,Sweden,Malmo,Leased,Office,5134,sqm,2021-03-31,,USD,65444,-30839.364,12.74717569
+327,N. Europe,Netherlands,Amsterdam,Leased,Office,3724,sqm,2021-09-30,,USD,47230,1423.370,12.68259936
+328,N. Europe,Germany,Cologne,Leased,Office,5907,sqm,2026-03-31,2021-03-31,USD,74085,335716.685,12.54189944
+329,North Asia,Japan,Ehime,Leased,Residential,30.3199869,sqm,2021-11-30,,USD,376.456972,74.260,12.41613241
+330,N. Europe,Belgium,Antwerp,Leased,Office,8891,sqm,2021-08-31,,USD,107754,-5609.112,12.11944663
+331,N. Europe,Belgium,Antwerpen,Leased,Office,3346,sqm,2026-08-31,2023-02-28,USD,40000,198027.397,11.95457262
+332,North Asia,Japam,Ehime,Leased,Residential,37.79998367,sqm,2022-08-04,,USD,445.3506059,389.224,11.78176715
+333,S. Europe,Italy,Milan,Leased,Office,5543,sqm,2022-10-31,,USD,64940,72412.548,11.71567743
+334,N. Europe,Poland,Sopot,Leased,Office,2367,sqm,2022-12-31,,USD,27234,34919.211,11.50570342
+335,N. Europe,Sweden,Gothenburg,Leased,Office,7072,sqm,2021-11-30,,USD,80895,15957.370,11.43877262
+336,N. Europe,Iceland,Reykjavik,Leased,Office,1549,sqm,2022-06-30,,USD,17212,13392.351,11.11168496
+337,S. Europe,Romania,Constanta,Leased,Office,1184,sqm,2019-03-21,,USD,13152,-32898.016,11.10810811
+338,S. Europe,Italy,Genoa,Leased,Storage,323,sqm,2021-01-31,,USD,3551,-2247.345,10.99380805
+339,N. Europe,Finland,Turku,Leased,Meeting point,1356,sqm,,,USD,14626,,10.78613569
+340,North Asia,Japan,Ehime,Leased,Residential,44.95998057,sqm,2022-09-06,,USD,470.8308644,454.062,10.47222126
+341,N. Europe,Hungary,Budapest,Leased,Office,845,sqm,,,USD,8784,,10.39526627
+342,S. Europe,Bulgaria,Varna,Leased,Office,1830,sqm,2022-07-31,,USD,19000,16397.260,10.38251366
+343,S. Europe,Israel,Haifa,Leased,Office,1615,sqm,2021-03-31,,USD,16737,-7887.025,10.36346749
+344,S. Europe,France,Nantes,Leased,Office,592,sqm,2021-07-31,,USD,6102,-835.890,10.30743243
+345,S. Europe,Italy,Naples,Leased,Office,431,sqm,2024-11-30,,USD,4422,14150.400,10.25986079
+346,N. Europe,Germany,Kiel,Leased,Office,1679,sqm,,,USD,17172,,10.22751638
+347,UK & I,England,Bracknell,Leased,Office,2237.568755,sqm,2021-03-01,,USD,22808,-12622.510,10.19320633
+348,S. Europe,Romania,Galatz,Leased,Office,2024,sqm,2021-12-31,,USD,20520,5790.575,10.13833992
+349,S. Europe,Spain,Bilbao,Leased,Office,1614,sqm,2022-09-01,,USD,16271,15468.595,10.08116481
+350,N. Europe,Poland,Katowice,Leased,Office,2227,sqm,,,USD,22287,,10.00763359
+351,N. Europe,Germany,Netphen,Leased,Meeting point,484,sqm,,,USD,4800,,9.917355372
+352,N. Europe,Germany,Bruchsal,Leased,Meeting point,237,sqm,,,USD,2304,,9.721518987
+353,North Asia,Japan,Kagawa,Leased,Residential,44.6599807,sqm,2021-09-30,,USD,431.5026393,13.004,9.661953106
+354,S. Europe,Romania,Bucharest,Leased,Office,2551,sqm,2019-01-31,,USD,24262,-63945.326,9.510780086
+355,S. Europe,Greece,Piraeus,Leased,Office,25209.07816,sqm,2023-09-30,,USD,238574,484337.901,9.463812937
+356,North Asia,Japan,Hiroshima,Leased,Residential,44.74998066,sqm,2021-03-11,,USD,421.670583,-221.810,9.422810395
+357,S. Europe,Bulgaria,Sofia,Leased,Office,4016,sqm,2021-02-28,,USD,36405,-20247.164,9.06499004
+358,North Asia,Japan,Hiroshima,Leased,Residential,41.97998186,sqm,2021-03-11,,USD,379.9189637,-199.848,9.050003045
+359,N. Europe,Netherlands,Haren/Groningen,Leased,Office,10097,sqm,2022-08-31,,USD,90000,85315.068,8.913538675
+360,North Asia,Japan,Ehime,Leased,Residential,44.38998082,sqm,2021-07-31,,USD,389.4048208,-53.343,8.772358393
+361,North Asia,Japan,Saga,Leased,Residential,51.65997768,sqm,2021-11-27,,USD,437.8727039,82.776,8.476052906
+362,North Asia,Japan,Ehime,Leased,Residential,44.54998075,sqm,2022-11-30,,USD,373.8950982,447.650,8.392710657
+363,North Asia,Japan,Saga,Leased,Residential,44.18998091,sqm,2023-09-30,,USD,370.7100659,752.592,8.389007153
+364,S. Europe,Italy,Venice,Leased,Office,2906,sqm,2022-05-31,,USD,23790,16555.233,8.186510668
+365,SAMEA,Egypt,Cairo,Leased,Office,249.165846,sqm,2021-07-14,,USD,2034,-373.364,8.163237589
+366,S. Europe,Italy,Trieste,Leased,Office,4305,sqm,2021-06-30,,USD,33843,-7510.364,7.861324042
+367,S. Europe,Malta,Valletta,Leased,Office,1614,sqm,2019-03-31,,USD,12480,-30875.178,7.732342007
+368,North Asia,Japan,Ehime,Leased,Residential,53.04997708,sqm,2024-10-31,,USD,408.791974,1274.535,7.705789834
+369,N. Europe,Germany,Rostock,Leased,Office,4035,sqm,2024-12-31,,USD,30000,98547.945,7.434944238
+370,N. Europe,Netherlands,Geleen,Leased,Office,2734,sqm,2021-02-28,,USD,20254,-11264.553,7.408193124
+371,S. Europe,Croatia,Rijeka,Leased,Office,3079,sqm,2025-05-16,,USD,22718,83091.863,7.378369601
+372,S. Europe,Serbia,Beograd,Leased,Storage,538,sqm,2022-03-31,,USD,3848,2034.696,7.152416357
+373,N. Europe,Ukraine,Mykolaiv,Leased,Office,631,sqm,,,USD,4344,,6.884310618
+374,S. Europe,Spain,Vigo,Leased,Office,1507,sqm,2021-01-01,,USD,9561,-6836.770,6.344392833
+375,N. Europe,Austria,Vienna,Leased,Storage,203,sqm,,,USD,1267,,6.24137931
+376,N. Europe,Latvia,Riga,Leased,Office,1130.210592,sqm,2022-12-31,,USD,6955,8917.644,6.153720421
+377,S. Europe,Spain,Zaragoza,Leased,Office,1076,sqm,2021-03-26,,USD,6569,-3185.515,6.105018587
+378,S. Europe,Spain,Ferrol,Leased,Office,495,sqm,2022-12-31,,USD,2990,3833.753,6.04040404
+379,N. Europe,Estonia,Tallinn,Leased,Office,1713,sqm,,,USD,9140,,5.335668418
+380,S. Europe,Cuba,Habana,Leased,Office,8342,sqm,2021-11-30,,USD,41558,8197.742,4.98177895
+381,S. Europe,Greece,Piraeus,Leased,Storage,646,sqm,2025-06-30,,USD,1737,6567.288,2.688854489
+382,SAMEA,Egypt,Alexandria,Leased,Office,159.978966,sqm,2022-12-31,,USD,355,455.178,2.219041721
+383,SAMEA,Egypt,Alexandria,Leased,Office,159.978966,sqm,2022-12-31,,USD,227,291.058,1.418936537
